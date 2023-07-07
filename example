@@ -15,11 +15,11 @@ server {
 
     #STATIC LOCATION    
     location /static/ {
-    	alias /var/www/html/labic/static/;
+    	alias /your/directory/;
     	}
     #MEDIA LOCATION
     location /media/ {
-    	alias /var/www/html/labic/media/;
+    	alias /your/directory/;
     	}
     }
 }
