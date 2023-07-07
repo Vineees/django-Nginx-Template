@@ -1,1 +1,1 @@
-# django-Nginx-Template
+# My Simple Django Nginx Reverse Proxy Configuration :)
